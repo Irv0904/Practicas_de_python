@@ -8,3 +8,4 @@
 #print(input("¿En què paìs vives?"))
 #print("Vamos crear un nombre a tu cerveza")
 #print('El nombre de la cerveza es:\n "' + input("Cual es tu color favorito: ")+" "+ input("Que parte de tu cerveza te gusta: ") + '"\nFelicitaciones!')
+print("Hola")
